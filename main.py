@@ -1,17 +1,1 @@
-def factorial(n):
-    if n == 0 or n == 1:
-        return 1
-    else:
-        return n * factorial(n - 1)
-
-### GPT ###
-def factorial(n):
-    if n < 0:
-        raise ValueError("Input must be non-negative")
-    if n <= 1:
-        return 1
-    return n * factorial(n - 1)
-
-
-x = int(input("factorial(x): x = "))
-print(factorial(x))
+# go where productions take you.proper training first (learn how to construct the parts *properly*). piece-by-piece. nothing rushed. absolute eternal stability for *other men*
