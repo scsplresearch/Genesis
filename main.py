@@ -1,4 +1,4 @@
-# go where productions take you.
+# go where productions take you
 
 # proper training first (learn how to construct the parts *properly*)
 
